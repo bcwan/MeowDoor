@@ -17,13 +17,14 @@ Meowdoor is a neighborhood hub for feral cats. Purr...servants...I mean humans..
 ![Example screenshot]()
 
 ## Technologies
-* React
+* React Hooks
 * Redux
 * Webpack
 * HTML/CSS
 * Ruby on Rails
 * AWS
 * PostgreSQL
+* GraphQL (in progress)
 
 ## Setup
 
