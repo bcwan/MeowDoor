@@ -21,7 +21,8 @@ Meowdoor is a neighborhood hub for feral cats. Purr...servants...I mean humans..
 * Redux
 * Webpack
 * HTML/CSS
-* Ruby on Rails
+* MongoDB
+* Express.js
 * AWS
 * PostgreSQL
 * GraphQL (in progress)
