@@ -6,5 +6,5 @@ bundle.js.map
 npm-debug.log
 package-lock.json
 .byebug_history
-config/keys_dev.js
-config/keys.js
+/config/keys_dev.js
+/config/keys.js
