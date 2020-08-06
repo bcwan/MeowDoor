@@ -25,7 +25,7 @@ Meowdoor is a neighborhood hub for feral cats. Purr...servants...I mean humans..
 * Express.js
 * AWS
 * PostgreSQL
-* GraphQL (in progress)
+* GraphQL
 
 ## Setup
 
