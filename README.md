@@ -1,4 +1,4 @@
-# Meowdoor
+# MeowDoor
 
 ## Table of contents
 * [General info](#general-info)
@@ -9,7 +9,7 @@
 * [Status](#status)
 
 ## General info
-Meowdoor is a neighborhood hub for feral cats. Purr...servants...I mean humans...can feed and take care of feral cats based on location. Give cat colonies a taste of indoor lifestyle, if they are comfortable with it.
+MeowDoor is a neighborhood hub for feral cats. PURRRRR...servants...I mean humans...can feed and take care of feral cats based on location. Give cat colonies a taste of indoor lifestyle, if they are comfortable with it.
 
 [Live Link]()
 
